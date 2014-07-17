@@ -1,0 +1,281 @@
+sndfilehandle.o: sndfilehandle.cc \
+ G:/usr/local446/include/c++/4.4.6/cstdio \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++config.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/os_defines.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/cpu_defines.h \
+ G:/usr/local446/include/c++/4.4.6/cstddef G:/usr/include/stddef.h \
+ G:/usr/local446/include/sys/cdefs.h G:/usr/include/sys/gnu/cdefs.h \
+ G:/usr/include/features.h G:/usr/include/sys/_types.h \
+ G:/usr/include/machine/_types.h G:/usr/include/386/_types.h \
+ G:/usr/include/stdio.h G:/usr/local446/include/c++/4.4.6/cstring \
+ G:/usr/include/string.h G:/usr/include/strings.h ../src/sndfile.hh \
+ ../src/sndfile.h G:/usr/include/sys/types.h \
+ G:/usr/include/machine/endian.h G:/usr/include/386/endian.h \
+ G:/usr/include/sys/select.h G:/usr/include/sys/_sigset.h \
+ G:/usr/local446/include/c++/4.4.6/string \
+ G:/usr/local446/include/c++/4.4.6/bits/stringfwd.h \
+ G:/usr/local446/include/c++/4.4.6/bits/char_traits.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_algobase.h \
+ G:/usr/local446/include/c++/4.4.6/bits/functexcept.h \
+ G:/usr/local446/include/c++/4.4.6/exception_defines.h \
+ G:/usr/local446/include/c++/4.4.6/bits/cpp_type_traits.h \
+ G:/usr/local446/include/c++/4.4.6/ext/type_traits.h \
+ G:/usr/local446/include/c++/4.4.6/ext/numeric_traits.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_pair.h \
+ G:/usr/local446/include/c++/4.4.6/bits/move.h \
+ G:/usr/local446/include/c++/4.4.6/bits/concept_check.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_iterator_base_types.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_iterator_base_funcs.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_iterator.h \
+ G:/usr/local446/include/c++/4.4.6/debug/debug.h \
+ G:/usr/local446/include/c++/4.4.6/bits/postypes.h \
+ G:/usr/local446/include/c++/4.4.6/cwchar G:/usr/include/wchar.h \
+ G:/usr/include/sys/_null.h G:/usr/include/machine/_limits.h \
+ G:/usr/include/386/_limits.h G:/usr/include/_ctype.h \
+ G:/usr/local446/include/c++/4.4.6/bits/allocator.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++allocator.h \
+ G:/usr/local446/include/c++/4.4.6/ext/new_allocator.h \
+ G:/usr/local446/include/c++/4.4.6/new \
+ G:/usr/local446/include/c++/4.4.6/exception \
+ G:/usr/local446/include/c++/4.4.6/bits/localefwd.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++locale.h \
+ G:/usr/local446/include/c++/4.4.6/clocale G:/usr/include/locale.h \
+ G:/usr/local446/include/c++/4.4.6/iosfwd \
+ G:/usr/local446/include/c++/4.4.6/cctype G:/usr/include/ctype.h \
+ G:/usr/local446/include/c++/4.4.6/bits/ostream_insert.h \
+ G:/usr/local446/include/c++/4.4.6/cxxabi-forced.h \
+ G:/usr/local446/include/c++/4.4.6/bits/stl_function.h \
+ G:/usr/local446/include/c++/4.4.6/backward/binders.h \
+ G:/usr/local446/include/c++/4.4.6/bits/basic_string.h \
+ G:/usr/local446/include/c++/4.4.6/ext/atomicity.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/gthr.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/gthr-default.h \
+ G:/usr/include/sys/builtin.h G:/usr/include/386/builtin.h \
+ G:/usr/include/stdint.h G:/usr/include/sys/stdint.h \
+ G:/usr/include/machine/_stdint.h G:/usr/include/386/_stdint.h \
+ G:/usr/include/sys/fmutex.h G:/usr/include/stdlib.h \
+ G:/usr/include/malloc.h G:/usr/include/InnoTekLIBC/FastInfoBlocks.h \
+ G:/usr/include/errno.h G:/usr/include/sys/errno.h \
+ G:/usr/include/InnoTekLIBC/thread.h G:/usr/include/time.h \
+ G:/usr/include/sys/timespec.h G:/usr/include/signal.h \
+ G:/usr/include/sys/signal.h G:/usr/include/machine/signal.h \
+ G:/usr/include/386/signal.h G:/usr/include/machine/trap.h \
+ G:/usr/include/386/trap.h G:/usr/include/InnoTekLIBC/backend.h \
+ G:/usr/include/sys/_timeval.h G:/usr/include/sys/resource.h \
+ G:/usr/include/sys/time.h G:/usr/include/sys/wait.h \
+ G:/usr/include/sys/sem.h G:/usr/include/sys/ipc.h \
+ G:/usr/include/sys/shm.h G:/usr/include/emx/io.h \
+ G:/usr/include/InnoTekLIBC/fork.h G:/usr/include/alloca.h \
+ G:/usr/include/stdarg.h G:/usr/include/machine/stdarg.h \
+ G:/usr/local446/include/386/stdarg.h \
+ G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/atomic_word.h \
+ G:/usr/local446/include/c++/4.4.6/initializer_list \
+ G:/usr/local446/include/c++/4.4.6/bits/basic_string.tcc
+
+G:/usr/local446/include/c++/4.4.6/cstdio:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++config.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/os_defines.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/cpu_defines.h:
+
+G:/usr/local446/include/c++/4.4.6/cstddef:
+
+G:/usr/include/stddef.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+G:/usr/include/stdio.h:
+
+G:/usr/local446/include/c++/4.4.6/cstring:
+
+G:/usr/include/string.h:
+
+G:/usr/include/strings.h:
+
+../src/sndfile.hh:
+
+../src/sndfile.h:
+
+G:/usr/include/sys/types.h:
+
+G:/usr/include/machine/endian.h:
+
+G:/usr/include/386/endian.h:
+
+G:/usr/include/sys/select.h:
+
+G:/usr/include/sys/_sigset.h:
+
+G:/usr/local446/include/c++/4.4.6/string:
+
+G:/usr/local446/include/c++/4.4.6/bits/stringfwd.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/char_traits.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_algobase.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/functexcept.h:
+
+G:/usr/local446/include/c++/4.4.6/exception_defines.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/cpp_type_traits.h:
+
+G:/usr/local446/include/c++/4.4.6/ext/type_traits.h:
+
+G:/usr/local446/include/c++/4.4.6/ext/numeric_traits.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_pair.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/move.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/concept_check.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_iterator_base_types.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_iterator_base_funcs.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_iterator.h:
+
+G:/usr/local446/include/c++/4.4.6/debug/debug.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/postypes.h:
+
+G:/usr/local446/include/c++/4.4.6/cwchar:
+
+G:/usr/include/wchar.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/machine/_limits.h:
+
+G:/usr/include/386/_limits.h:
+
+G:/usr/include/_ctype.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/allocator.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++allocator.h:
+
+G:/usr/local446/include/c++/4.4.6/ext/new_allocator.h:
+
+G:/usr/local446/include/c++/4.4.6/new:
+
+G:/usr/local446/include/c++/4.4.6/exception:
+
+G:/usr/local446/include/c++/4.4.6/bits/localefwd.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/c++locale.h:
+
+G:/usr/local446/include/c++/4.4.6/clocale:
+
+G:/usr/include/locale.h:
+
+G:/usr/local446/include/c++/4.4.6/iosfwd:
+
+G:/usr/local446/include/c++/4.4.6/cctype:
+
+G:/usr/include/ctype.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/ostream_insert.h:
+
+G:/usr/local446/include/c++/4.4.6/cxxabi-forced.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/stl_function.h:
+
+G:/usr/local446/include/c++/4.4.6/backward/binders.h:
+
+G:/usr/local446/include/c++/4.4.6/bits/basic_string.h:
+
+G:/usr/local446/include/c++/4.4.6/ext/atomicity.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/gthr.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/gthr-default.h:
+
+G:/usr/include/sys/builtin.h:
+
+G:/usr/include/386/builtin.h:
+
+G:/usr/include/stdint.h:
+
+G:/usr/include/sys/stdint.h:
+
+G:/usr/include/machine/_stdint.h:
+
+G:/usr/include/386/_stdint.h:
+
+G:/usr/include/sys/fmutex.h:
+
+G:/usr/include/stdlib.h:
+
+G:/usr/include/malloc.h:
+
+G:/usr/include/InnoTekLIBC/FastInfoBlocks.h:
+
+G:/usr/include/errno.h:
+
+G:/usr/include/sys/errno.h:
+
+G:/usr/include/InnoTekLIBC/thread.h:
+
+G:/usr/include/time.h:
+
+G:/usr/include/sys/timespec.h:
+
+G:/usr/include/signal.h:
+
+G:/usr/include/sys/signal.h:
+
+G:/usr/include/machine/signal.h:
+
+G:/usr/include/386/signal.h:
+
+G:/usr/include/machine/trap.h:
+
+G:/usr/include/386/trap.h:
+
+G:/usr/include/InnoTekLIBC/backend.h:
+
+G:/usr/include/sys/_timeval.h:
+
+G:/usr/include/sys/resource.h:
+
+G:/usr/include/sys/time.h:
+
+G:/usr/include/sys/wait.h:
+
+G:/usr/include/sys/sem.h:
+
+G:/usr/include/sys/ipc.h:
+
+G:/usr/include/sys/shm.h:
+
+G:/usr/include/emx/io.h:
+
+G:/usr/include/InnoTekLIBC/fork.h:
+
+G:/usr/include/alloca.h:
+
+G:/usr/include/stdarg.h:
+
+G:/usr/include/machine/stdarg.h:
+
+G:/usr/local446/include/386/stdarg.h:
+
+G:/usr/local446/include/c++/4.4.6/i386-pc-os2-emx/bits/atomic_word.h:
+
+G:/usr/local446/include/c++/4.4.6/initializer_list:
+
+G:/usr/local446/include/c++/4.4.6/bits/basic_string.tcc:

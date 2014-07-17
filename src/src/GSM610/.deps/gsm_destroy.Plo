@@ -1,0 +1,30 @@
+GSM610/gsm_destroy.lo: GSM610/gsm_destroy.c GSM610/gsm.h \
+ G:/usr/include/stdio.h G:/usr/local446/include/sys/cdefs.h \
+ G:/usr/include/sys/gnu/cdefs.h G:/usr/include/features.h \
+ G:/usr/include/sys/_types.h G:/usr/include/machine/_types.h \
+ G:/usr/include/386/_types.h GSM610/config.h G:/usr/include/stdlib.h \
+ G:/usr/include/sys/_null.h G:/usr/include/malloc.h
+
+GSM610/gsm.h:
+
+G:/usr/include/stdio.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+GSM610/config.h:
+
+G:/usr/include/stdlib.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/malloc.h:

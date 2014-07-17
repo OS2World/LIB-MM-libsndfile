@@ -1,0 +1,85 @@
+htk.lo: htk.c sfconfig.h config.h G:/usr/include/stdio.h \
+ G:/usr/local446/include/sys/cdefs.h G:/usr/include/sys/gnu/cdefs.h \
+ G:/usr/include/features.h G:/usr/include/sys/_types.h \
+ G:/usr/include/machine/_types.h G:/usr/include/386/_types.h \
+ G:/usr/include/fcntl.h G:/usr/include/sys/fcntl.h \
+ G:/usr/include/sys/stat.h G:/usr/include/sys/time.h \
+ G:/usr/include/sys/_timeval.h G:/usr/include/sys/types.h \
+ G:/usr/include/machine/endian.h G:/usr/include/386/endian.h \
+ G:/usr/include/sys/select.h G:/usr/include/sys/_sigset.h \
+ G:/usr/include/sys/timespec.h G:/usr/include/time.h \
+ G:/usr/include/string.h G:/usr/include/strings.h G:/usr/include/ctype.h \
+ G:/usr/include/_ctype.h sndfile.h sfendian.h G:/usr/include/stdint.h \
+ G:/usr/include/sys/stdint.h G:/usr/include/machine/_stdint.h \
+ G:/usr/include/386/_stdint.h common.h G:/usr/include/stdlib.h \
+ G:/usr/include/sys/_null.h G:/usr/include/malloc.h
+
+sfconfig.h:
+
+config.h:
+
+G:/usr/include/stdio.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+G:/usr/include/fcntl.h:
+
+G:/usr/include/sys/fcntl.h:
+
+G:/usr/include/sys/stat.h:
+
+G:/usr/include/sys/time.h:
+
+G:/usr/include/sys/_timeval.h:
+
+G:/usr/include/sys/types.h:
+
+G:/usr/include/machine/endian.h:
+
+G:/usr/include/386/endian.h:
+
+G:/usr/include/sys/select.h:
+
+G:/usr/include/sys/_sigset.h:
+
+G:/usr/include/sys/timespec.h:
+
+G:/usr/include/time.h:
+
+G:/usr/include/string.h:
+
+G:/usr/include/strings.h:
+
+G:/usr/include/ctype.h:
+
+G:/usr/include/_ctype.h:
+
+sndfile.h:
+
+sfendian.h:
+
+G:/usr/include/stdint.h:
+
+G:/usr/include/sys/stdint.h:
+
+G:/usr/include/machine/_stdint.h:
+
+G:/usr/include/386/_stdint.h:
+
+common.h:
+
+G:/usr/include/stdlib.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/malloc.h:

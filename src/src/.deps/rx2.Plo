@@ -1,0 +1,71 @@
+rx2.lo: rx2.c sfconfig.h config.h G:/usr/include/stdio.h \
+ G:/usr/local446/include/sys/cdefs.h G:/usr/include/sys/gnu/cdefs.h \
+ G:/usr/include/features.h G:/usr/include/sys/_types.h \
+ G:/usr/include/machine/_types.h G:/usr/include/386/_types.h \
+ G:/usr/include/string.h G:/usr/include/strings.h G:/usr/include/ctype.h \
+ G:/usr/include/_ctype.h \
+ G:/usr/local446/lib/gcc/i386-pc-os2-emx/4.4.6/include/stdarg.h sndfile.h \
+ G:/usr/include/sys/types.h G:/usr/include/machine/endian.h \
+ G:/usr/include/386/endian.h G:/usr/include/sys/select.h \
+ G:/usr/include/sys/_sigset.h sfendian.h G:/usr/include/stdint.h \
+ G:/usr/include/sys/stdint.h G:/usr/include/machine/_stdint.h \
+ G:/usr/include/386/_stdint.h common.h G:/usr/include/stdlib.h \
+ G:/usr/include/sys/_null.h G:/usr/include/malloc.h
+
+sfconfig.h:
+
+config.h:
+
+G:/usr/include/stdio.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+G:/usr/include/string.h:
+
+G:/usr/include/strings.h:
+
+G:/usr/include/ctype.h:
+
+G:/usr/include/_ctype.h:
+
+G:/usr/local446/lib/gcc/i386-pc-os2-emx/4.4.6/include/stdarg.h:
+
+sndfile.h:
+
+G:/usr/include/sys/types.h:
+
+G:/usr/include/machine/endian.h:
+
+G:/usr/include/386/endian.h:
+
+G:/usr/include/sys/select.h:
+
+G:/usr/include/sys/_sigset.h:
+
+sfendian.h:
+
+G:/usr/include/stdint.h:
+
+G:/usr/include/sys/stdint.h:
+
+G:/usr/include/machine/_stdint.h:
+
+G:/usr/include/386/_stdint.h:
+
+common.h:
+
+G:/usr/include/stdlib.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/malloc.h:

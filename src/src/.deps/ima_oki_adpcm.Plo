@@ -1,0 +1,64 @@
+ima_oki_adpcm.lo: ima_oki_adpcm.c sfconfig.h config.h \
+ G:/usr/include/string.h G:/usr/local446/include/sys/cdefs.h \
+ G:/usr/include/sys/gnu/cdefs.h G:/usr/include/features.h \
+ G:/usr/include/sys/_types.h G:/usr/include/machine/_types.h \
+ G:/usr/include/386/_types.h G:/usr/include/strings.h common.h \
+ G:/usr/include/stdlib.h G:/usr/include/sys/_null.h \
+ G:/usr/include/malloc.h G:/usr/include/stdint.h \
+ G:/usr/include/sys/stdint.h G:/usr/include/machine/_stdint.h \
+ G:/usr/include/386/_stdint.h sndfile.h G:/usr/include/stdio.h \
+ G:/usr/include/sys/types.h G:/usr/include/machine/endian.h \
+ G:/usr/include/386/endian.h G:/usr/include/sys/select.h \
+ G:/usr/include/sys/_sigset.h ima_oki_adpcm.h
+
+sfconfig.h:
+
+config.h:
+
+G:/usr/include/string.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+G:/usr/include/strings.h:
+
+common.h:
+
+G:/usr/include/stdlib.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/malloc.h:
+
+G:/usr/include/stdint.h:
+
+G:/usr/include/sys/stdint.h:
+
+G:/usr/include/machine/_stdint.h:
+
+G:/usr/include/386/_stdint.h:
+
+sndfile.h:
+
+G:/usr/include/stdio.h:
+
+G:/usr/include/sys/types.h:
+
+G:/usr/include/machine/endian.h:
+
+G:/usr/include/386/endian.h:
+
+G:/usr/include/sys/select.h:
+
+G:/usr/include/sys/_sigset.h:
+
+ima_oki_adpcm.h:

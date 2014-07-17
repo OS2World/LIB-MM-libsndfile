@@ -1,0 +1,5 @@
+Quick compile of libsndfile-1.0.25. Only changes were a couple of small changes to libtool to create an export lib and link with -Zomf and commenting out the --export-symbols part of configure.
+For building used configure --disable-sqlite --disable-external-libs --prefix=r:/tmp/libsndfile  &&  make LDFLAGS=-Zomf install
+Upon request I can do a build that uses sqlite, flac, ogg and vorbis.
+Dave Yeo
+dave.r.yeo@gmail.com

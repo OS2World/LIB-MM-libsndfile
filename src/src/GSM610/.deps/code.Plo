@@ -1,0 +1,30 @@
+GSM610/code.lo: GSM610/code.c G:/usr/include/stdlib.h \
+ G:/usr/local446/include/sys/cdefs.h G:/usr/include/sys/gnu/cdefs.h \
+ G:/usr/include/features.h G:/usr/include/sys/_null.h \
+ G:/usr/include/sys/_types.h G:/usr/include/machine/_types.h \
+ G:/usr/include/386/_types.h G:/usr/include/malloc.h \
+ G:/usr/include/string.h G:/usr/include/strings.h GSM610/gsm610_priv.h
+
+G:/usr/include/stdlib.h:
+
+G:/usr/local446/include/sys/cdefs.h:
+
+G:/usr/include/sys/gnu/cdefs.h:
+
+G:/usr/include/features.h:
+
+G:/usr/include/sys/_null.h:
+
+G:/usr/include/sys/_types.h:
+
+G:/usr/include/machine/_types.h:
+
+G:/usr/include/386/_types.h:
+
+G:/usr/include/malloc.h:
+
+G:/usr/include/string.h:
+
+G:/usr/include/strings.h:
+
+GSM610/gsm610_priv.h:
